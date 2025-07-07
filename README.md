@@ -22,6 +22,6 @@ My name is Gabriel Silva Bastos, I'm a Front-End Developer
 <a href="https://www.instagram.com/gs.bstos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:gabrielsilvabastosgbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center"><img src="https://tenor.com/mIHFD5MmQRi.gif" width="200"/></p>  
+<p align="center"><img src="<div class="tenor-gif-embed" data-postid="10539169426521065658" data-share-method="host" data-aspect-ratio="0.98996" data-width="100%"><a href="https://tenor.com/view/sad-sea-dog-gif-10539169426521065658">Sad Sea GIF</a>from <a href="https://tenor.com/search/sad-gifs">Sad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="200"/></p>  
 <h3 align="center"> If you have any questions or suggestions, feel free to text me! </h3></p>
 </body>
