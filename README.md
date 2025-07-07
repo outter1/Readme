@@ -20,4 +20,4 @@ My name is Gabriel Silva Bastos, I'm a Front-End Developer
 <a href="mailto:gabrielsilvabastosgbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="200"/></p>  
-<h3 align="center"> If u have a questions, text me! </h3></p>
+<h3 align="center"> If u have a questions or any suggestions, text me! </h3></p>
