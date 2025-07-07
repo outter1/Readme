@@ -1,6 +1,6 @@
-body {
-      background-color: #f0f0f0;
+<body background-color="red">
 
+      
 <h1><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/039fb60e-7284-4b55-9cd9-b994cf8b712a/dd9nvgt-10b1bc61-c854-446a-bac5-c746e007fd99.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAzOWZiNjBlLTcyODQtNGI1NS05Y2Q5LWI5OTRjZjhiNzEyYVwvZGQ5bnZndC0xMGIxYmM2MS1jODU0LTQ0NmEtYmFjNS1jNzQ2ZTAwN2ZkOTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P9fpSaA5hwItudw9BHfTn-uGtMf50fpELFbF_GuS5rE" width="30"/> My BIO 🌟 </h1>
 ========================================================================================
 
@@ -24,3 +24,4 @@ My name is Gabriel Silva Bastos, I'm a Front-End Developer
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="200"/></p>  
 <h3 align="center"> If u have a questions or any suggestions, text me! </h3></p>
+</body>
